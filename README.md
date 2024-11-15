@@ -21,10 +21,9 @@ Returns a list of all planets in our solar system with detailed information.
     "moons": 0,
     "description": "The smallest planet in our solar system, closest to the Sun. ☀️"
   },
-  ...
 ]
 ```
-````
+
 
 ### `GET /api/planets/:id` 🌠
 
@@ -90,4 +89,3 @@ This project is deployed on [Vercel](https://vercel.com). Every time you push co
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-```
