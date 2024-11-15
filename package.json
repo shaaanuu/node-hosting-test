@@ -4,9 +4,12 @@
   "description": "Sample Node app for Vercel",
   "main": "api/index.js",
   "scripts": {
-    "start": "vercel dev"
+    "dev": "node api/index.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
